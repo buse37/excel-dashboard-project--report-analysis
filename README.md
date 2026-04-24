@@ -80,6 +80,6 @@ us-retail-sales-dashboard/
 👩‍💻 About
 Buse | Industrial Engineer transitioning into Data Analytics
 Connecting engineering mindset with data storytelling — this project applies efficiency and process thinking to retail sales analysis.
-📧 Connect with me on LinkedIn
----
+
+
 Dashboard created with Power BI Desktop. Dataset source: Kaggle.
